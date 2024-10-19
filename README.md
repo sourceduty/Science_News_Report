@@ -9,6 +9,13 @@
 Beyond simply reporting the latest scientific news, this GPT allows users to customize their experience by selecting fields of interest and requesting downloadable reports. The focus remains on presenting credible and reliable content without sensationalism, making it a trustworthy tool for anyone seeking to stay informed about the science world. By keeping the tone professional but approachable, it strikes a balance between being informative and accessible to a wide audience, from casual readers to those with a deep interest in science.
 
 #
+### Private Science Report Generator
+
+The Python program will be designed to streamline the generation of scientific reports by leveraging GPT-4 to aggregate and analyze content from multiple sources. The program will first gather relevant research papers, articles, and other academic sources from various databases or provided by the user. Once collected, the data will be preprocessed—this includes tokenizing the text, removing irrelevant sections, and categorizing content by themes such as methods, results, or conclusions. This categorized information will then be passed to GPT-4, which will analyze the data, identify commonalities and contrasts between the sources, and generate a draft report. The report will include sections like an abstract, introduction, methodology, results, and discussion, with clear citations for each piece of information aggregated from the sources.
+
+The program will allow the user to specify key parameters such as the research topic, target word count, and specific formatting requirements (e.g., APA or MLA citation styles). Additionally, the user will have the option to interactively refine the report's sections using GPT-4, asking for expansions or summaries of specific areas. The program will integrate a verification step where scientific claims can be cross-referenced with the original sources, ensuring accuracy and avoiding bias in the final report. Finally, the report will be outputted as a polished document, ready for further revision or publication.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
