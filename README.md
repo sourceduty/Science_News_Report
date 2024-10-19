@@ -16,7 +16,7 @@ Beyond simply reporting the latest scientific news, this GPT allows users to cus
 [Science](https://github.com/sourceduty/Science)
 <br>
 [Modern Origin](https://github.com/sourceduty/Modern_Origin)
-<br
+<br>
 [Document Statistics](https://github.com/sourceduty/Document_Statistics)
 <br>
 [My News Report](https://github.com/sourceduty/My_News_Report)
