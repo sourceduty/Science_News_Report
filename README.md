@@ -16,6 +16,10 @@ The Python program will be designed to streamline the generation of scientific r
 The program will allow the user to specify key parameters such as the research topic, target word count, and specific formatting requirements (e.g., APA or MLA citation styles). Additionally, the user will have the option to interactively refine the report's sections using GPT-4, asking for expansions or summaries of specific areas. The program will integrate a verification step where scientific claims can be cross-referenced with the original sources, ensuring accuracy and avoiding bias in the final report. Finally, the report will be outputted as a polished document, ready for further revision or publication.
 
 #
+
+> Alex: "*Monthly science report emails?.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
